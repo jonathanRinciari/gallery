@@ -2,3 +2,58 @@ body {
 
 	padding-top: 70px;
 }
+
+
+.image1 {
+  background-image: url(https://source.unsplash.com/3igHRe7QTdg);
+}
+
+.image2 {
+
+	background-image: url(https://source.unsplash.com/cjpGSEkXfwM);
+}
+
+.image3 {
+
+	background-image: url(https://source.unsplash.com/trvP9JiYC1E);
+}
+
+.image4 {
+
+	background-image: url(https://source.unsplash.com/jIdKrtJF8Uk);
+}
+
+.image5 {
+
+	background-image: url(https://source.unsplash.com/9bdt03k4ujw);
+}
+
+.image6 {
+
+	background-image: url(https://source.unsplash.com/cFplR9ZGnAk);
+}
+
+.image7 {
+
+	background-image: url(https://source.unsplash.com/tvPvROBv0F4);
+}
+
+.image8 {
+
+	background-image: url(https://source.unsplash.com/TGBfUv0ZgD8);
+}
+
+.image9 {
+
+	background-image: url(https://source.unsplash.com/x-tbVqkfQCU);
+}
+
+
+.image {
+  width: 100%;
+  height: 250px;
+  background-size: cover;
+  background-position: center center;
+}
+
+
